@@ -1,0 +1,39 @@
+name: Update README with LeetCode Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Ejecutar diariamente
+  push:
+    branches:
+      - main  # Ejecutar cuando se hagan push a la rama principal
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run script
+        run: python update_readme.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update Readme
+          commit_user_name: Defiant7426
+          commit_user_email: pldelacruzv@gmail.com
+          commit_author: Luis
+
