@@ -1,5 +1,9 @@
 <h1 align="center">Hi 😆, I'm Pedro De la Cruz</h1>
-<h3 align="center">Computer science student passionate about algorithms, AI, and data science🔥</h3>
+<h1 align="center">Hi 😆, I'm Pedro Luis Valdiviezo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Computer+science+student+;Passionate+about+algorithms;AI%2C+and+data+science%F0%9F%94%A5" alt="Typing SVG" /></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Defiant7426&label=Profile%20views&color=0e75b6&style=flat" alt="Defiant7426" /> </p>
 
