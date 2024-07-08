@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">Hi 😆, I'm Pedro De la Cruz</h1>
 <h3 align="center">Computer science student passionate about algorithms, AI, and data science🔥</h3>
 
