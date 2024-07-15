@@ -1,6 +1,7 @@
 <h1 align="center">Hi 😆, I'm Pedro Luis Valdiviezo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 Welcome to my GitHub. I am a student at the National University of Engineering in Peru, where I study Computer Science. My goal is to specialize in Machine Learning Engineering.
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <br>
