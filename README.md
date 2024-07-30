@@ -94,7 +94,7 @@ Welcome to my GitHub. I am a student at the National University of Engineering i
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pedro-de-la-cruz-valdiviezo-934b17167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joel-chavez-chico/" height="30" /></a><a href="https://leetcode.com/u/Defiant7426/" target="blank"><img align="center" src="https://pic1.zhimg.com/v2-ca674b5186b28e2b0edae538ee5388d0_ipico.jpg" alt="jhozzel" height="35" /></a>
+<a href="https://www.linkedin.com/in/delacruzvaldiviezo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/delacruzvaldiviezo/" height="30" /></a><a href="https://leetcode.com/u/Defiant7426/" target="blank"><img align="center" src="https://pic1.zhimg.com/v2-ca674b5186b28e2b0edae538ee5388d0_ipico.jpg" alt="jhozzel" height="35" /></a>
 <a href="https://www.datacamp.com/portfolio/pldelacruzv" target="blank"><img align="center" src="https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/Datacamp/original.jpg?1603209616" alt="jhozzel" height="30" /></a>
 <a href="https://www.youtube.com/channel/UC0GbzgBmyChRFuPPmHpoetg" target="blank"><img align="center" src="https://logolook.net/wp-content/uploads/2021/06/Symbol-Youtube.png" alt="jhozzel_" height="30" /></a>
 </p>
