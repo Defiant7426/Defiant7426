@@ -32,9 +32,11 @@ Welcome to my GitHub. I am a student at the National University of Engineering i
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Defiant7426&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+<img src="https://leetcard.jacoblin.cool/Defiant7426?theme=unicorn" alt="LeetCode Stats"/>
+
 </p>
 
-<img src="https://leetcard.jacoblin.cool/Defiant7426?theme=unicorn" alt="LeetCode Stats"/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
